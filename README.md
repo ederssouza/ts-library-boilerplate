@@ -1,4 +1,4 @@
-# JavaScript Library Boilerplate with TypeScript
+# TypeScript Library Boilerplate
 
 ## Dependencies versions
 
